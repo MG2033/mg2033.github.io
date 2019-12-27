@@ -8,6 +8,6 @@ I'm a computer engineer from Egypt. I've received my B.Sc. from the Computer Eng
 
 In industry, I'm currently working with Open Data Science Conference (ODSC) as a Sr. machine learning engineer. I'm also working with an Egyptian AI startup called Webville as an AI team lead. 
 
-In academia, I'm currently working as a research assistant at the military technical college in Egypt. I've also worked as a teaching assistant at Cairo University.
+In academia, I'm currently working as a research assistant (RA) at the military technical college in Egypt. I've also worked as a teaching assistant (TA) at Cairo University.
 
 Previously, I used to work in the Deep Learning Research Team at Valeo Egypt.
