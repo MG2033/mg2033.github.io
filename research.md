@@ -2,7 +2,7 @@
 layout: page
 title:  "Research"
 ---
-For the full list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=yvdgYdwAAAAJ&hl=en).
+For the full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=yvdgYdwAAAAJ&hl=en).
 
 
 M. Siam, S. Elkerdawy, **M. Gamal**, M. Abdel-Razek, M. Jägersand, H. Zhang, "Real-Time Segmentation with Appearance, Motion and Geometry", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2018 (10.1109/IROS.2018.8594088) [►](https://ieeexplore.ieee.org/document/8594088/)
