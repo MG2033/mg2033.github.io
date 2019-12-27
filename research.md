@@ -2,7 +2,9 @@
 layout: page
 title:  "Research"
 ---
-For the full list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=yvdgYdwAAAAJ&hl=en)
+For the full list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=yvdgYdwAAAAJ&hl=en).
+
+
 M. Siam, S. Elkerdawy, **M. Gamal**, M. Abdel-Razek, M. Jägersand, H. Zhang, "Real-Time Segmentation with Appearance, Motion and Geometry", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2018 (10.1109/IROS.2018.8594088) [►](https://ieeexplore.ieee.org/document/8594088/)
 
 I. Sobh, L. Amin, S. Abdelkarim, K. Elmadawy, M. Saeed, O. Abdeltawab, **M. Gamal**, A. El Sallab, "End-To-End Multi-Modal Sensors Fusion System For Urban Automated Driving", Neural Information Processing Systems (NIPS): Machine Learning in Inteligent Transportation MLITS workshop, 05 Dec – 10 Dec, 2018, Canada. [►](https://openreview.net/forum?id=Byx4Xkqjcm)
