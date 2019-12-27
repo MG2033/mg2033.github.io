@@ -4,8 +4,10 @@ title:  "Mostafa Gamal"
 invisible: true
 date:   2018-07-23 17:12:53 +0200
 ---
-I'm a research engineer with two years of experience in machine learning, deep learning, and computer vision.
+I'm a computer engineer from Egypt. I've received my B.Sc. from the Computer Engineering Department at Cairo University. I've been working as machine learning research engineer since 2016. I have an experience in modern artificial intelligence including machine learning, deep learning, computer vision, and natural language processing.
 
-I'm currently an AI Research and Development Engineer at Webville. I also used to work in the Deep Learning Research Team at Valeo.
+In industry, I'm currently working with Open Data Science Conference (ODSC) as a Sr. machine learning engineer. I'm also working with an Egyptian AI startup called Webville as an AI team lead. 
 
-I'm also a teaching assistant (TA) at Computer Engineering Dept., Faculty of Engineering, Cairo University.
+In academia, I'm currently working as a research assistant at the military technical college in Egypt. I've also worked as a teaching assistant at Cairo University.
+
+Previously, I used to work in the Deep Learning Research Team at Valeo Egypt.
