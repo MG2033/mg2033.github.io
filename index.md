@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  "Mostafa Gamal Badawy"
+title:  "Mostafa Gamal"
 invisible: true
 date:   2018-07-23 17:12:53 +0200
 ---
