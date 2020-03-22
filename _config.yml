@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 curriculum:
     name: Résumé
-    url: https://drive.google.com/open?id=1LRn5kgvUsuupI-95Ep0_RZZQSt7nl2up
+    url: https://drive.google.com/open?id=1XU1iYt9h9Wh0sDvA-UD5ayJcObROpBgp
 github_username:  mg2033
 linkedin_username: mostafa-gamal-badawy
 # Build settings
