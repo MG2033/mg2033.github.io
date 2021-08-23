@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MG
-title_html: "<b>mostafa</b>gamal"
-email: mostafa.gamal8086@gmail.com
+title_html: "<b>mostafa</b>.g.badawy"
+email: mostafa.g.badawy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- A computer engineer. His work is in the intersection between Deep Learning, Computer Vision and Natural Language Processing.
+ A computer engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 curriculum:
     name: Résumé
-    url: https://drive.google.com/open?id=1XU1iYt9h9Wh0sDvA-UD5ayJcObROpBgp
+    url: https://drive.google.com/file/d/1yP709nXaZeuLZc6QyoU7P6GBtCsw-O5S/view?usp=sharing
 github_username:  mg2033
 linkedin_username: mostafa-gamal-badawy
 # Build settings
