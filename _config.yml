@@ -27,7 +27,7 @@ github_username:  mg2033
 linkedin_username: mostafa-gamal-badawy
 # Build settings
 markdown: kramdown
-theme: academic
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
