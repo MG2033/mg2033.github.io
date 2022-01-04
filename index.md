@@ -4,8 +4,6 @@ title:  "Mostafa Gamal Badawy"
 invisible: true
 date:   2018-07-23 17:12:53 +0200
 ---
-Mostafa has 5+ years of experience working in the research and development of ML software including natural language processing and computer vision systems. 
+I have more than 5 years of experience working in the research and development of ML software including natural language processing and computer vision systems. I like building software systems from scratch that have machine learning pipelines as core components. So, I built and contributed to multiple ML products in different companies from the research phase to production. I also have experience in the deployment and optimization of machine learning software. I published several research papers in the top AI conferences around the world such as NeurIPS, CVPR, IROS, ICIP. 
 
-He built the backbone of multiple AI software companies. He published several research papers in the top AI conferences around the world. He also has an experience in the deployment and optimization of machine learning software in production. 
-
-He received his bachelor's degree from Cairo University and was ranked as the first on his class.
+I received a bachelor's degree in Computer Engineering from Cairo University and was ranked as the top student in my class.
